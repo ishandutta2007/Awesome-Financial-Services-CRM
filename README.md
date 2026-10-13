@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Services-CRM?style=flat-square&color=blue" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Services-CRM?style=flat-square&color=blue" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Financial-Services-CRM?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -22,7 +22,7 @@
 
 Customer Relationship Management (CRM) in financial services demands far more than basic sales pipelines. Financial institutions require intricate **household & multi-entity relationship mapping**, **custodian clearing integrations** (Charles Schwab, Fidelity, BNY Mellon Pershing), **strict regulatory audit trails** (SEC, FINRA, SOX, GLBA, GDPR), and **automated compliance reporting**. 
 
-This repository tracks the leading **enterprise SaaS platforms** (ranked by company size and featuring verified starting prices and trial terms) alongside actively maintained **open-source CRM and financial management systems** (ranked by GitHub stars).
+This repository tracks the leading **enterprise SaaS platforms** (ranked by company size and featuring verified starting prices and trial terms) alongside actively maintained **open-source CRM and financial management systems** (ranked by GitHub_Stars).
 
 ---
 
@@ -69,73 +69,73 @@ The table below catalogs the leading commercial financial CRM software suites. *
 
 ## 🌐 Open-Source GitHub Projects
 
-Self-hosted, transparent, and developer-friendly relationship and financial management software. **Sorted in descending order by GitHub Star Count.**
+Self-hosted, transparent, and developer-friendly relationship and financial management software. **Sorted in descending order by GitHub Stars_Count.**
 
-1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
    *License: AGPL-3.0* | **~58.3k Stars**  
    Modern, extensible open-source CRM alternative to Salesforce designed with AI in mind. Offers custom object modeling perfect for financial households, investment portfolios, advisory tasks, and GraphQL/REST APIs for custodian data ingestion.
 
-2. **[Odoo](https://github.com/odoo/odoo)** [![GitHub Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+2. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    *License: LGPL-3.0* | **~55.0k Stars**  
    Extensive enterprise suite featuring CRM, double-entry financial accounting, invoicing, electronic signature, and customer portal modules. Adaptable for wealth management firms and family offices requiring integrated billing and client records.
 
-3. **[Maybe](https://github.com/maybe-finance/maybe)** [![GitHub Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
+3. **[Maybe](https://github.com/maybe-finance/maybe)** [![GitHub_Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)  
    *License: AGPL-3.0* | **~54.2k Stars**  
    Next-generation personal wealth management and financial tracking application built with Ruby on Rails and PostgreSQL. Delivers asset allocation insights, net worth tracking, and portfolio performance analytics.
 
-4. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+4. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *License: GPL-3.0* | **~40.1k Stars**  
    Full-scale enterprise management system built on Frappe. Features client communication histories, deal pipelines, multi-currency accounting, tax compliance, and automated advisory operational workflows.
 
-5. **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
+5. **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub_Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)  
    *License: MIT* | **~29.5k Stars**  
    Privacy-first, local-first financial management engine with optional bank synchronization via Plaid and GoCardless. Ideal for privacy-conscious advisors providing holistic cash-flow planning without third-party cloud data leaks.
 
-6. **[Monica](https://github.com/monicahq/monica)** [![GitHub Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers)  
+6. **[Monica](https://github.com/monicahq/monica)** [![GitHub_Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers)  
    *License: AGPL-3.0* | **~25.5k Stars**  
    Open-source Personal Relationship Manager (PRM) built with Laravel. Enables financial advisors to record family trees, personal milestones, relationship interactions, birthdays, and conversation logs for high-touch private client service.
 
-7. **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+7. **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
    *License: AGPL-3.0* | **~24.9k Stars**  
    Self-hosted financial manager supporting multiple bank accounts, asset allocation, budgets, recurring transaction audits, and double-entry bookkeeping records.
 
-8. **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![GitHub Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
+8. **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
    *License: MIT* | **~24.0k Stars**  
    Fast, lightweight CRM engineered on Laravel. Offers visual lead pipelines, custom entity attributes, activity trackers, and client onboarding workflows adaptable to financial advisory teams.
 
-9. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+9. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
    *License: Source Available* | **~10.3k Stars**  
    Client billing and relationship management tool featuring recurring retainer invoicing, proposal generation, client portals, and payment gateway integrations suited for financial consulting practices.
 
-10. **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** [![GitHub Stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers)  
+10. **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** [![GitHub_Stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers)  
     *License: AGPL-3.0* | **~9.4k Stars**  
     Open-source wealth management dashboard built with Angular, NestJS, Prisma, and TypeScript. Provides multi-currency portfolio tracking, asset allocation breakdowns, dividend calendars, and performance benchmarking for self-directed wealth professionals.
 
-11. **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+11. **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
     *License: GPL-3.0* | **~7.7k Stars**  
     Modular open-source ERP and CRM with contact relationship management, proposals, contracts, invoices, and bank account reconciliation.
 
-12. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM)](https://github.com/salesagility/SuiteCRM/stargazers)  
+12. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM)](https://github.com/salesagility/SuiteCRM/stargazers)  
     *License: AGPL-3.0* | **~5.8k Stars**  
     Enterprise-grade open-source CRM (the open-source successor to SugarCRM). Highly extensible for banking compliance tracking, multi-tier household management, audit history, and role-based permissions.
 
-13. **[Rotki](https://github.com/rotki/rotki)** [![GitHub Stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers)  
+13. **[Rotki](https://github.com/rotki/rotki)** [![GitHub_Stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers)  
     *License: AGPL-3.0* | **~4.0k Stars**  
     Privacy-first portfolio management, accounting, and analytics application with support for traditional equities, fiat bank accounts, and digital assets with zero remote data storage.
 
-14. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+14. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
     *License: AGPL-3.0* | **~3.5k Stars**  
     Fast Single Page Application (SPA) CRM with customizable entities, relationships, workflow rules, and REST API. Highly configurable for wealth advisory relationship mapping and document archives.
 
-15. **[Corteza](https://github.com/cortezaproject/corteza)** [![GitHub Stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers)  
+15. **[Corteza](https://github.com/cortezaproject/corteza)** [![GitHub_Stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers)  
     *License: Apache-2.0* | **~2.2k Stars**  
     Low-code open-source CRM alternative to Salesforce. Built with Go and Vue.js, featuring automated compliance workflows, case management, and financial client records.
 
-16. **[CiviCRM](https://github.com/civicrm/civicrm-core)** [![GitHub Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)  
+16. **[CiviCRM](https://github.com/civicrm/civicrm-core)** [![GitHub_Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)  
     *License: AGPL-3.0* | **~786 Stars**  
     Web-based constituent relationship management software designed for complex relationship tracking, pledges, compliance communications, and case management.
 
-17. **[Vtiger CRM](https://github.com/vtiger-crm/vtigercrm)** [![GitHub Stars](https://img.shields.io/github/stars/vtiger-crm/vtigercrm?style=social&color=white)](https://github.com/vtiger-crm/vtigercrm/stargazers)  
+17. **[Vtiger CRM](https://github.com/vtiger-crm/vtigercrm)** [![GitHub_Stars](https://img.shields.io/github/stars/vtiger-crm/vtigercrm?style=social&color=white)](https://github.com/vtiger-crm/vtigercrm/stargazers)  
     *License: VPL-1.1 (MPL-based)* | **~258 Stars**  
     Open-source CRM system providing contact management, deal pipelines, customer service ticketing, and customer portals for financial services practices.
 
