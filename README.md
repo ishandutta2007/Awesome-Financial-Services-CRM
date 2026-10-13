@@ -9,6 +9,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-CRM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <img src="https://img.shields.io/badge/FinTech-CRM-0052CC?style=flat-square" alt="Category: FinTech CRM" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -33,6 +34,8 @@ This repository tracks the leading **enterprise SaaS platforms** (ranked by comp
 - [🏗️ Recommended Architecture for Custom Self-Hosted CRMs](#️-recommended-architecture-for-custom-self-hosted-crms)
 - [🔍 Key Evaluation Criteria for Financial CRMs](#-key-evaluation-criteria-for-financial-crms)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#--star-history)
 - [⚖️ Disclaimer & Compliance Notice](#️-disclaimer--compliance-notice)
 
 ---
@@ -199,6 +202,28 @@ Contributions from financial advisors, wealth tech practitioners, and open-sourc
 4. 🚀 **Commit your changes:** `git commit -m "feat: add NewFinancialCRM entry"`.
 5. 📤 **Push to your branch:** `git push origin feature/add-financial-crm`.
 6. 🔀 **Open a Pull Request** with a concise description of the addition.
+
+---
+
+## 💖 Support & Community
+
+Thank you so much for exploring and supporting **Awesome Financial Services CRM**! 🙏
+
+If you find this curated directory valuable for your research, advisory practice, or development projects:
+- ⭐ **Star this repository** to help others in the FinTech, WealthTech, and banking ecosystems discover it.
+- 🍴 **Fork and contribute** your favorite financial tools, custodian integrations, or updates.
+- 📢 **Share this resource** with fellow financial planners, RIAs, and engineers across LinkedIn, X/Twitter, and community forums.
+- ☕ **Buy a coffee & sponsor ongoing research:** Check out the [**GitHub Sponsor Dashboard**](https://github.com/sponsors/ishandutta2007) to support continuous directory maintenance, independent pricing verification, and open-source tooling!
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" /></a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Financial-Services-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Financial-Services-CRM&type=date&legend=top-left)
 
 ---
 
